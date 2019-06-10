@@ -24,6 +24,8 @@ Lessons learnt from the 2019 software conference SoCraTes UK
 - 11am - [Emotional Intelligence in Tech](2019-06-08-emotional-intelligence-in-tech.md)
 - 12am - Mentorship
   - Don't have any notes
+- 4pm - [Why do you have to make things so complicated?](2019-06-08-making-things-so-complicated.md)
+- 5pm - [Building in the dark](2019-06-08-building-in-the-dark.md)
 - Evening - [Boardgames!](https://pbs.twimg.com/media/D8kr9Z2X4AYlcAP.jpg:large)
 
 ## Sunday
