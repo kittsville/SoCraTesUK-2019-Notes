@@ -1,6 +1,10 @@
 # SoCraTesUK 2019 Notes
 Lessons learnt from the 2019 software conference SoCraTes UK
 
+While I missed the event there was a company speed-dating session and with [notes
+on what people looked for](https://github.com/lscc/socrates-uk/wiki/Where-Are-All-the-Good-Workplaces-At%3F)
+in companies they applied to. This could be of use to improve our (Intent HQ's) job specs.
+
 ## Thursday
 - Evening - Icebreaker discussions and socialising
   - Key takeaway was the importance of psychological safety for affective inter-team communication
